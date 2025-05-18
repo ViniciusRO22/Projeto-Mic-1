@@ -1,0 +1,321 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Vinicius\ProjetoMic1\simulation\qsim
+vdecoder_2x4
+Z1 IJz>U0i]2BIm0TFezKBEjh3
+Z2 VLJ>oRNNT8Id?D]62njeJ`3
+Z3 dC:\Users\Aluno\Vinicius\ProjetoMic1\simulation\qsim
+Z4 w1743710503
+Z5 8mic1.vo
+Z6 Fmic1.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 z?dT5K=HZ0EX4;PPTA`Jj0
+Z10 !s108 1743710506.884000
+Z11 !s107 mic1.vo|
+Z12 !s90 -work|work|mic1.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_2x4_vlg_check_tst
+Z13 Ig<S<RC@:8:oVa7Hkmn^7Z0
+Z14 VLfdb_3H`Og9]1VgMnS7id1
+R3
+Z15 w1743710502
+Z16 8mic1.vt
+Z17 Fmic1.vt
+L0 59
+R7
+r1
+31
+Z18 !s108 1743710507.229000
+Z19 !s107 mic1.vt|
+Z20 !s90 -work|work|mic1.vt|
+R8
+Z21 !s100 APBboK?cM?50n=kQ1^QRJ0
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_2x4_vlg_sample_tst
+Z22 I=<6KMIFH_9D0Pe]j5KWah3
+Z23 VQ`hfT9bENWHRnQz=@8kn01
+R3
+R15
+R16
+R17
+L0 29
+R7
+r1
+31
+R18
+R19
+R20
+R8
+Z24 !s100 EZdz]_h[R20PfFI1d:WB=2
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_2x4_vlg_vec_tst
+Z25 IBc]mA=:6GInbClBfg1eNF3
+Z26 V0[gj^F2SJ863R3bgh^DQ63
+R3
+R15
+R16
+R17
+Z27 L0 235
+R7
+r1
+31
+R18
+R19
+R20
+R8
+Z28 !s100 eX:J>PmT`7aAzeYVj8ZCe0
+!i10b 1
+!s85 0
+!s101 -O0
+vULA_1bit
+Z29 !s100 7IHg_0;=NJU7dLAHZXez:3
+Z30 I?B;IZ3gfQ<MEHAHDFjBO`0
+Z31 VO@Q1iOSVQ60OOS^<a[eWL3
+R3
+Z32 w1746733761
+R5
+R6
+L0 31
+R7
+r1
+31
+R12
+R8
+Z33 n@u@l@a_1bit
+Z34 !s108 1746733761.792000
+R11
+!i10b 1
+!s85 0
+!s101 -O0
+vULA_1bit_vlg_check_tst
+Z35 ImY^W2`Xh?cgCa`Z5k<:BY3
+Z36 V>jZCnW>b_lRzU4k4[:@Dd1
+R3
+Z37 w1746733760
+R16
+R17
+L0 71
+R7
+r1
+31
+Z38 !s108 1746733761.914000
+R19
+R20
+R8
+Z39 n@u@l@a_1bit_vlg_check_tst
+Z40 !s100 iRT1Vh:X:Ef@V^6:Sf8R;0
+!i10b 1
+!s85 0
+!s101 -O0
+vULA_1bit_vlg_sample_tst
+Z41 !s100 UAQe18m[1m_P=9F1Bb7o70
+Z42 IoQO<RM?4hj`O>^X4oS_Z03
+Z43 VXA`bV=QfMnhZA2?ZGL8jl0
+R3
+R37
+R16
+R17
+L0 29
+R7
+r1
+31
+R38
+R19
+R20
+R8
+Z44 n@u@l@a_1bit_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vULA_1bit_vlg_vec_tst
+Z45 In7fViP@b1Ygk`DLzOREj[3
+Z46 VPjTNLXPzREjLmP<8h`CY01
+R3
+R37
+R16
+R17
+Z47 L0 199
+R7
+r1
+31
+R38
+R19
+R20
+R8
+Z48 n@u@l@a_1bit_vlg_vec_tst
+Z49 !s100 9DGb7:0jY=h`Y?l=]geGY1
+!i10b 1
+!s85 0
+!s101 -O0
+vULA_32bit
+Z50 !s100 a2X>:QAJTX`;mMGAY:k=52
+Z51 Iik8RimOW96U8MT4VzR2^>0
+Z52 V>TF;e`_m?NiGO3mPeVT:a1
+R3
+Z53 w1747341553
+R5
+R6
+L0 31
+R7
+r1
+31
+R12
+R8
+Z54 n@u@l@a_32bit
+!i10b 1
+!s85 0
+Z55 !s108 1747341553.993000
+R11
+!s101 -O0
+vULA_32bit_vlg_check_tst
+!i10b 1
+!s100 b7]Q5E=<3Ozb55a@OW;OP0
+I7;o1OC5I@gV;Yz25`iPjk3
+Z56 V72]HX6LG?0IW?JOFl@HdF1
+R3
+Z57 w1747341552
+R16
+R17
+L0 71
+R7
+r1
+!s85 0
+31
+Z58 !s108 1747341554.174000
+Z59 !s107 mic1.vt|
+R20
+!s101 -O0
+R8
+Z60 n@u@l@a_32bit_vlg_check_tst
+vULA_32bit_vlg_sample_tst
+!i10b 1
+Z61 !s100 RE4b@WCR=9@Ick>be30lF0
+Z62 I11Ghh3L2]nSWC1gnA]fX^0
+Z63 V^2ok83?dAz:7N`TmLiNk]1
+R3
+R57
+R16
+R17
+L0 29
+R7
+r1
+!s85 0
+31
+R58
+R59
+R20
+!s101 -O0
+R8
+Z64 n@u@l@a_32bit_vlg_sample_tst
+vULA_32bit_vlg_vec_tst
+!i10b 1
+!s100 @@Vzn=4M1]_BmSP>g@>ko3
+I0j2cR8OBUAgLRF<hKf=o70
+Z65 VJ=3lTQCEj3_FZ<ZSZ:UI>2
+R3
+R57
+R16
+R17
+L0 802
+R7
+r1
+!s85 0
+31
+R58
+R59
+R20
+!s101 -O0
+R8
+Z66 n@u@l@a_32bit_vlg_vec_tst
+vULA_8bit
+Z67 !s100 =d<kTlGjfe]k^7hzJYYf40
+Z68 INd?_4K4<lV<^S1`?ZXenX1
+Z69 VZRIG4_D:I:U=]?e3n[CBz0
+R3
+Z70 w1747338465
+R5
+R6
+L0 31
+R7
+r1
+31
+R12
+R8
+Z71 n@u@l@a_8bit
+Z72 !s108 1747338467.991000
+R11
+!i10b 1
+!s85 0
+!s101 -O0
+vULA_8bit_vlg_check_tst
+Z73 I:T=Eia81FJJBmP`zb_H493
+Z74 V>2;a64Nd6^FF[4KNkg_X>2
+R3
+Z75 w1747338464
+R16
+R17
+L0 71
+R7
+r1
+31
+Z76 !s108 1747338468.121000
+R19
+R20
+R8
+Z77 n@u@l@a_8bit_vlg_check_tst
+Z78 !s100 iHPY;2Ooi<Cf>:=QiS2@n0
+!i10b 1
+!s85 0
+!s101 -O0
+vULA_8bit_vlg_sample_tst
+Z79 !s100 bLzi0Ca01U2?CHBFEV7AR2
+Z80 IZGRh_ZG__=`GBF^4VSOG:3
+Z81 VeMZKh5OEAi24>JRzGa>lG0
+R3
+R75
+R16
+R17
+L0 29
+R7
+r1
+31
+R76
+R19
+R20
+R8
+Z82 n@u@l@a_8bit_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vULA_8bit_vlg_vec_tst
+Z83 IJDL1UR1[n6<kO]jP?J?Y13
+Z84 V?8]lE9NVIA2dmZ]?SNXHW0
+R3
+R75
+R16
+R17
+Z85 L0 370
+R7
+r1
+31
+R76
+R19
+R20
+R8
+Z86 n@u@l@a_8bit_vlg_vec_tst
+Z87 !s100 k4<1ZI8PGc>ghYzONO5T13
+!i10b 1
+!s85 0
+!s101 -O0
