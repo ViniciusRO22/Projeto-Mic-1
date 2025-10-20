@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="mic1">
+		<CBX_INST_ENTRY INSTANCE_NAME="|UNIT_CONTROL|MPC_generator:inst1|lpm_mux0:inst9|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_g6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|UNIT_CONTROL|Microprogam_Memory:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_a5c1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
